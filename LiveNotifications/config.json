@@ -1,0 +1,10 @@
+﻿[
+  {
+    "ChannelId": 128856353,
+    "WebhookUrl": "https://discord.com/api/webhooks/xxxxxx/xxxxxx",
+    "LiveText": "Mande just went live! https://www.twitch.tv/mande",
+    "GameChangeText": "New game! %NEW_GAME%",
+    "TitleChangeText": "New title! %NEW_TITLE%",
+    "OfflineText": "Mande is now offline"
+  }
+]
