@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="MiniTwitch.PubSub" Version="1.0.2" />
+      <PackageReference Include="MiniTwitch.PubSub" Version="1.0.3" />
     </ItemGroup>
 
     <ItemGroup>
